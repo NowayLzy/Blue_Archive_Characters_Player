@@ -1,0 +1,1 @@
+Copy the dir(mjpeg) to you SDcard.
