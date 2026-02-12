@@ -10,7 +10,7 @@ This project is based on the project in the above link.
 
 #### Watch video
 
-<iframe src="https://youtu.be/vQL_RLp0I38" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/vQL_RLp0I38
 
 **Thank for you reading!!!**
 
