@@ -1,4 +1,4 @@
-# Blue_Archive_Live_2D_Player
+# ESPlayer
 
 ![](img/IMG_1249.PNG)
 
@@ -15,14 +15,3 @@ eg:
 ```
 ffmpeg -y -i input.mp4 -pix_fmt yuvj420p -q:v 7 -vf "transpose=1,fps=24,scale=240:320:flags=lanczos,eq=brightness=-0.05" -c:v mjpeg -an output.mjpeg
 ```
-
-
-
-#### Watch video
-
-https://youtu.be/231dmutHblA
-
-**Thank for you reading!!!**
-
-😘😘😘
-
